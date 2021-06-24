@@ -58,9 +58,6 @@ const siteConfig = {
     "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
     "/js/code-block-button.js",
   ],
-  // For Google Analytics
-  gaTrackingId: "G-L6E92QWQ8G",
-  gaGtag: true,
   // For Algolia DocSearch
   algolia: {
     apiKey: "df2e0c3351b9e7e24fd66f2e79e615d0",
