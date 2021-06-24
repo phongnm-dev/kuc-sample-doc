@@ -11,7 +11,7 @@ const siteConfig = {
   subTagline: "It will support your UI customization project.",
   // For Netlify hosting
   url: "https://kintone-ui-component.netlify.app",
-  baseUrl: "/",
+  baseUrl: "/kuc-sample-doc/",
   projectName: "kintone-ui-component",
   organizationName: "kintone-labs",
   headerLinks: [

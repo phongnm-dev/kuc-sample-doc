@@ -1,5 +1,7 @@
 {
+  "homepage": "https://phongnm-dev.github.io/kuc-sample-doc",
   "scripts": {
+    "deploy": "gh-pages -d website/build/kintone-ui-component",
     "lint-md": "remark .",
     "es-lint": "node_modules/.bin/eslint website --ext .js"
   },
@@ -7,6 +9,7 @@
     "@cybozu/eslint-config": "^11.0.3",
     "dictionary-en": "^3.0.1",
     "eslint": "^7.18.0",
+    "gh-pages": "^3.2.3",
     "prettier": "^2.1.1",
     "remark-cli": "^8.0.1",
     "remark-frontmatter": "^2.0.0",
