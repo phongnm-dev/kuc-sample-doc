@@ -1,3 +1,3 @@
 <?php
-  echo 'OKE!!!'
+		echo show_source('index.php');
 ?>
